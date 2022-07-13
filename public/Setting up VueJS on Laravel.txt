@@ -1,0 +1,17 @@
+#Setps to setup vuejs on Laravel 
+
+*Add to file: .editorconfig :
+
+[*.{js,css,less,scss,vue}]
+indent_size = 2
+
+*Then run the code 
+
+npm init vite vue
+
+*Then follow the instruction :
+
+cd vue
+npm install && npm run dev
+
+Like this you vuejs is setup .. visit the port 3000 to check .
